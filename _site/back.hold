@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>MB Photography, LLC - MB Photography, LLC</title>
+<!-- begin _includes/seo.html --><title>MB Photography, LLC</title>
 <meta name="description" content="Bringing boudoir photography to central illinois.">
 
 
@@ -18,12 +18,10 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="MB Photography, LLC">
 <meta property="og:title" content="MB Photography, LLC">
-<meta property="og:url" content="http://localhost:4000/">
+<meta property="og:url" content="http://localhost:4000/back.hold">
 
 
 
-
-  <meta property="og:image" content="http://localhost:4000/assets/images/portfolio/catelyn/cblk-th-2.jpg">
 
 
 
@@ -38,7 +36,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/">
+<link rel="canonical" href="http://localhost:4000/back.hold">
 
 
 
@@ -102,7 +100,7 @@
 
   </head>
 
-  <body class="layout--single">
+  <body class="layout--home">
 
     <!--[if lt IE 9]>
 <div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
@@ -138,82 +136,27 @@
 
     <div class="initial-content">
       
-  
-
-
-
-
-
-
-
-
-
-
-
-<div class="page__hero--overlay"
-  style=" background-image: url('/assets/images/portfolio/catelyn/cblk-th-2.jpg');"
->
-  
-    <div class="wrapper">
-      <h1 id="page-title" class="page__title" itemprop="headline">
-        
-          MB Photography, LLC
-
-        
-      </h1>
-      
-      
-      
-      
-    </div>
-  
-  
-</div>
-
-
 
 
 
 <div id="main" role="main">
   
 
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="MB Photography, LLC">
+  <div class="archive">
+    
+      <h1 id="page-title" class="page__title"></h1>
     
     
-    
 
-    <div class="page__inner-wrap">
-      
-
-      <section class="page__content" itemprop="text">
-        
-        <p style="text-align: center;">Bringing fine art portraiture & boudoir photography to central Illinois.</p>
+<h3 class="archive__subtitle">Recent posts</h3>
 
 
-        
-      </section>
-
-      <footer class="page__meta">
-        
-        
 
 
-        
-      </footer>
 
-      
 
-      
-    </div>
-
-    
-  </article>
-
-  
-  
+  </div>
 </div>
-
     </div>
 
     

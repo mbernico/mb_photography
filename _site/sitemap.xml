@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/portfolio/Beth/</loc>
+<lastmod>2018-12-13T22:45:02-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/Catelyn/</loc>
-<lastmod>2018-12-13T19:18:18-06:00</lastmod>
+<lastmod>2018-12-13T22:45:02-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/post%20formats/post-image-linked/</loc>
-<lastmod>2010-08-05T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/business/now_booking/</loc>
+<lastmod>2018-12-10T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/layout-read-time/</loc>
-<lastmod>2012-01-02T00:00:00-06:00</lastmod>
+<loc>http://localhost:4000/business/valentines/</loc>
+<lastmod>2018-12-12T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/</loc>
