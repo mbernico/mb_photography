@@ -2,8 +2,8 @@
 main:
   - title: "Info"
     url: /info/
-  - title: "Services"
-    url: /services/
+  - title: "Pricing"
+    url: /pricing/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Blog"
