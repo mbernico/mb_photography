@@ -27,7 +27,7 @@ gallery:
 
 ---
 
-Beth is a confident and almost fearless woman that I recently had the opportunity to shoot. This shoot was really fun for me because Beth gave me the artistic freedom to really play with light and shadow.  She loved the results, and I think you will to.
+Beth is a confident and almost fearless woman that I recently had the opportunity to shoot. This shoot was really fun for me because Beth gave me the artistic freedom to really play with light and shadow.  She loved the results, and I think you will too.
 
 {% include gallery caption="" %}
 

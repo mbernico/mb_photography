@@ -24,8 +24,8 @@ gallery:
   - url: /assets/images/portfolio/catelyn/cwhk-2.jpg
     image_path: /assets/images/portfolio/catelyn/cwhk-th-2.jpg
     alt: ""
-  - url: /assets/images/portfolio/catelyn/cblk-6.jpg
-    image_path: /assets/images/portfolio/catelyn/cblk-th-6.jpg
+  - url: /assets/images/portfolio/catelyn/cwlkfav.jpg
+    image_path: /assets/images/portfolio/catelyn/cwlkfav-th.jpg
     alt: ""
   - url: /assets/images/portfolio/catelyn/cbhk-4.jpg
     image_path: /assets/images/portfolio/catelyn/cbhk-th-4.jpg
@@ -43,3 +43,7 @@ Catelyn has been with me from the begining. She's a talented model, a loyal frie
 > “When I say I want to photograph someone, what it really means is that I’d like to know them. Anyone I know I photograph.”
 **— Annie Leibovitz**
 
+
+<figure class="full">
+    <img src="/assets/images/portfolio/catelyn/cwlkfav.jpg">
+</figure>

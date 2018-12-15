@@ -1,12 +1,13 @@
 ---
-title: "Info"
+title: "How it works"
 layout: single
 permalink: /info/
 header:
   image: /assets/images/models/catelyn_black_hk-5.jpg
   
 ---
-If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
+
+Welcome! If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
 
 
 ## Why boudoir?
@@ -21,6 +22,10 @@ While boudoir dates back to the 1840s, it has never been more popular than it is
 * Just Because. Treat yourself! Every woman should have a boudoir album that reminds them how beautiful they are.  
 
 * To celebrate a special occasion. Maybe you've recently accomplished a fitness goal or gotten back into shape. Whatever the goal, celebrate your hard work.  
+
+<figure class="full">
+    <img src="/assets/images/models/cwlkfav.jpg">
+</figure>
 
 ## How does your process work?
 1. When you contact us we will reach out to schedule a free, *no pressure* consultation with you. During the consultation we will design the perfect session for you. We will cover all the details including:
