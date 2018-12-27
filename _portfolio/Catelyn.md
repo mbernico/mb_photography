@@ -6,6 +6,24 @@ header:
   teaser: /assets/images/portfolio/catelyn/cbhk-th-5.jpg
 
 gallery:
+  - url: /assets/images/portfolio/catelyn/cat-white-full-3.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-3.jpg
+    alt: ""
+  - url: /assets/images/portfolio/catelyn/cat-white-full-5.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-5.jpg
+    alt: ""
+  - url: /assets/images/portfolio/catelyn/cat-white-full-2.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-2.jpg
+    alt: ""
+  - url: /assets/images/portfolio/catelyn/cat-white-full-7.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-7.jpg
+    alt: ""
+  - url: /assets/images/portfolio/catelyn/cat-white-full-10.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-10.jpg
+    alt: ""
+  - url: /assets/images/portfolio/catelyn/cat-white-full-6.jpg
+    image_path: /assets/images/portfolio/catelyn/cat-white-small-6.jpg
+    alt: ""
   - url: /assets/images/portfolio/catelyn/cbhk-1.jpg
     image_path: /assets/images/portfolio/catelyn/cbhk-th-1.jpg
     alt: ""

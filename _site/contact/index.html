@@ -18,7 +18,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="MB Photography, LLC">
 <meta property="og:title" content="Let’s talk">
-<meta property="og:url" content="/contact/">
+<meta property="og:url" content="http://localhost:4000/contact/">
 
 
 
@@ -36,7 +36,7 @@
   
 
 
-<link rel="canonical" href="/contact/">
+<link rel="canonical" href="http://localhost:4000/contact/">
 
 
 
@@ -49,7 +49,7 @@
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "MB Photo",
-      "url": null,
+      "url": "http://localhost:4000",
       "sameAs": null
     }
   </script>
@@ -162,8 +162,22 @@
         <p>Ready to schedule your free consultation?  We’re ready to talk!</p>
 <p style="text-align: center;">
    <i class="far fa-envelope fa-3x"></i><br />
-   <a href="mailto:sales@mbphotography.net">sales@mbphotography.net</a>
+   Email: <a href="mailto:sales@mbphotography.net">sales@mbphotography.net </a> Call: (309)222-8404
+   
 </p>
+
+<form id="contact-form" method="post">
+      <h4>Name:</h4>
+      <input type="text" style="width:100%;" id="name-input" placeholder="Enter name here…" class="form-control" /><br />
+      <h4>Phone:</h4>
+      <input type="phone" style="width:100%;" id="phone-input" placeholder="Enter phone number" class="form-control" /><br />
+      <h4>Email:</h4>
+      <input type="email" style="width:100%;" id="email-input" placeholder="Enter email here…" class="form-control" /><br />
+      <h4>How can we help you?</h4>
+      <textarea id="description-input" rows="3" placeholder="Enter your message…" class="form-control" style="width:100%;"></textarea><br />
+      <div class="form-control" data-sitekey="6Le8-IEUAAAAAGN2OuBC_t19zqlgpIDVopPolZ73" style="width:100%;"></div>
+      <button type="button" onclick="submitToAPI(event)" class="btn btn-lg" style="margin-top:20px;">Submit</button>
+</form>
 
         
       </section>
@@ -233,24 +247,6 @@
   <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
 
 
-
-
-
-
-
-  <!-- start custom analytics snippet -->
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129654266-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-129654266-1');
-</script>
-
-<!-- end custom analytics snippet -->
 
 
 

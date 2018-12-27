@@ -3,7 +3,6 @@ title: "Pricing"
 layout: single
 permalink: /pricing/
 
-
 ---
 
 
@@ -16,7 +15,7 @@ Unlike most photographers, our boudoir packages **include** digital images and a
 Each package also includes an 8x8 photo album, valued at $99, which makes a perfect gift!
 
 <figure class="full">
-    <img src="/assets/images/models/catelyn_white_lk-5.jpg">
+    <img src="/assets/images/models/cat-white-full-3.jpg">
 </figure>
 
 

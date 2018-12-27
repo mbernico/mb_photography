@@ -7,7 +7,7 @@ header:
    overlay_image: /assets/images/portfolio/catelyn/cblk-5.jpg
    
 feature_row_portfolio:
-  - image_path: /assets/images/models/cwhkfr-1.jpg
+  - image_path: /assets/images/models/cat-white-small-5.jpg
     alt: "Portfolio"
     title: "View our portfolio"
     excerpt: 'Interested in what you can expect from a boudoir session?  Check out our portfolio, see the results, and hear from our clients!'
@@ -15,7 +15,7 @@ feature_row_portfolio:
     btn_label: "Portfolio"
     btn_class: "btn--primary"
 feature_row_process:
-  - image_path: /assets/images/models/cwhkfr-2.jpg
+  - image_path: /assets/images/models/cat-white-small-10.jpg
     alt: "Portfolio"
     title: "Learn about our process"
     excerpt: 'Are you curious how a boudoir session works?  You can learn all about our process here. '
@@ -23,10 +23,10 @@ feature_row_process:
     btn_label: "Process"
     btn_class: "btn--primary"
 feature_row_contact:
-  - image_path: /assets/images/models/cwhkfr-3.jpg
+  - image_path: /assets/images/models/cat-white-small-3.jpg
     alt: "Contact"
     title: "More Information"
-    excerpt: 'Are you ready to look amazing? Connect with us in email or schedule a free consultation.'
+    excerpt: 'Are you ready to fall in love with yourself all over again? Call or email us to schedule a free consultation.'
     url: "/contact"
     btn_label: "Contact"
     btn_class: "btn--primary"

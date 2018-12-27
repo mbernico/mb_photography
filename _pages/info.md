@@ -2,13 +2,14 @@
 title: "How it works"
 layout: single
 permalink: /info/
-header:
-  image: /assets/images/models/catelyn_black_hk-5.jpg
-  
+
 ---
 
 Welcome! If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
 
+<figure class="full">
+    <img src="/assets/images/models/cat-white-full-5.jpg">
+</figure>
 
 ## Why boudoir?
 Boudoir is about much more than just a few sexy photos. Boudoir is empowerment. It’s about taking a moment to appreciate yourself. It’s about believing in yourself and falling in love with yourself. We’re here to help you on your journey.  We’re here to help you escape everyday life and help you feel sexy and beautiful. Boudoir is a gift you give yourself first, but you might want to share it with someone special as well.
@@ -53,6 +54,10 @@ No one comes in knowing how to pose. That's our job! You certainly don't need to
 
 ## Will my photos be on the internet?
 Only if you want them to be. Your shoot includes a password protected, TLS encrypted digital album that you control access to. If you don't want your photos on the internet whatsoever, that's fine as well.  We can deliver your images on a USB flash drive.
+
+<figure class="full">
+    <img src="/assets/images/models/cat-white-full-7.jpg">
+</figure>
 
 ## Can I bring a friend?  
 Yes, please! Ask about our specials for booking with a friend.
