@@ -4,6 +4,10 @@ layout: single
 permalink: /contact/
 author_profile: false
 
+header:
+  image: /assets/logo/banner.png
+  
+
 ---
 
 Ready to schedule your free consultation?  We're ready to talk!
@@ -16,7 +20,7 @@ Ready to schedule your free consultation?  We're ready to talk!
 <form id="contact-form" method="post">
       <h4>Name:</h4>
       <input type="text" style="height:35px;" id="name-input" placeholder="Enter name here…" class="form-control" style="width:100%;" /><br/>
-      <h4>Phone:</h4>
+      <h4>(Optional) Phone:</h4>
       <input type="phone" style="height:35px;" id="phone-input" placeholder="Enter phone number" class="form-control" style="width:100%;"/><br/>
       <h4>Email:</h4>
       <input type="email" style="height:35px;" id="email-input" placeholder="Enter email here…" class="form-control" style="width:100%;"/><br/>

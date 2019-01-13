@@ -9,6 +9,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/portfolio/Catelyn/",
         "teaser":"http://localhost:4000/assets/images/portfolio/catelyn/cbhk-th-5.jpg"},{
+        "title": "Shomari",
+        "excerpt":"Shomari and her husband were celebrating their 10th wedding anniversary and she wanted to give him the perfect gift, an album full of pictures from her first boudoir session! We met a few days before the shoot for her consultation and one of the questions I asked Shomari was “What...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/portfolio/Shomari/",
+        "teaser":"http://localhost:4000/assets/images/portfolio/shomari/shomari-small-1.jpg"},{
         "title": "Now booking - 2019! ",
         "excerpt":"   We’re now scheduling shoots into 2019!  Be sure to get your shoot scheduled soon, we have a limited number of slots available each month.  ","categories": ["Business"],
         "tags": [2019],

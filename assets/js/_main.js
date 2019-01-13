@@ -154,9 +154,10 @@ function submitToAPI(e) {
          success: function () {
            // disable form and show a success message
            $("#contact-form :input").prop("disabled", true);
-           alert("Thanks! We will be in touch soon.");
-           document.getElementById("contact-form").reset();
-       location.reload();
+           //alert("Thanks! We will be in touch soon.");
+           //document.getElementById("contact-form").reset();
+           //location.reload();
+           window.location = "/thanks/";
          },
          error: function () {
            // show an error message

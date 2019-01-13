@@ -3,16 +3,22 @@ title: "How it works"
 layout: single
 permalink: /info/
 
+header:
+  image: /assets/logo/banner.png
+  
 ---
+MB Photography, LLC is Central Illinois premier boudoir studio. We create gorgeous, empowering portraits for people of all shapes, ages, and sizes.
 
-Welcome! If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
+If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
 
 <figure class="full">
     <img src="/assets/images/models/cat-white-full-5.jpg">
 </figure>
 
 ## Why boudoir?
-Boudoir is about much more than just a few sexy photos. Boudoir is empowerment. It’s about taking a moment to appreciate yourself. It’s about believing in yourself and falling in love with yourself. We’re here to help you on your journey.  We’re here to help you escape everyday life and help you feel sexy and beautiful. Boudoir is a gift you give yourself first, but you might want to share it with someone special as well.
+Boudoir is about much more than just a few sexy photos.  Boudoir is empowerment.  It’s about taking a moment to appreciate yourself.  Your boudoir experience will leave you feeling confident and beautiful. We want you to fall in love with yourself.
+
+We will be with you every step of the way. We will listen and make your shoot uniquely yours, help you select your wardrobe and accessories, and show you exactly how to pose. Give the gift of a lifetime - an album full of amazing photos of YOU - and be ready to fall in love with yourself!
 
 ## Is boudoir new?
 While boudoir dates back to the 1840s, it has never been more popular than it is now!
