@@ -58,7 +58,7 @@ A few days later, Shomari left us a wonderful review.
 
 > "Mike is wonderful to work with. He knows how to calm your nerves and what poses will add flattery to your body. I loved my Boudoir shoot, and my husband loved absolutely EVERY picture."
 
-Better yet, she allowed me to use a few of her photos in my portfolio so others could read about her journey. Are you ready for your own journey? What does sexy mean to you?
+Better yet, she allowed me to share her story and a few of her photos here so others could read about her journey. Are you ready for your own journey? What does sexy mean to you?
 
 <figure class="full">
     <img src="/assets/images/portfolio/shomari/shomari-3.jpg">
