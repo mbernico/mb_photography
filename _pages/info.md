@@ -1,5 +1,5 @@
 ---
-title: "How it works"
+title: "Common Questions about Boudoir Photography"
 layout: single
 permalink: /info/
 
@@ -7,7 +7,7 @@ header:
   image: /assets/logo/banner.png
   
 ---
-MB Photography, LLC is Central Illinois premier boudoir studio. We create gorgeous, empowering portraits for people of all shapes, ages, and sizes.
+MB Photography, LLC is Central Illinois premier boudoir photography studio. We create gorgeous, empowering portraits for people of all shapes, ages, and sizes.
 
 If you've never done a boudoir session you probably have a few questions. We have answers! Our most common questions are answered here, but we'd love to hear from you in [email as well.](mailto:sales@mbphotography.net)
 
@@ -21,10 +21,16 @@ Boudoir is about much more than just a few sexy photos.  Boudoir is empowerment.
 We will be with you every step of the way. We will listen and make your shoot uniquely yours, help you select your wardrobe and accessories, and show you exactly how to pose. Give the gift of a lifetime - an album full of amazing photos of YOU - and be ready to fall in love with yourself!
 
 ## Is boudoir new?
-While boudoir dates back to the 1840s, it has never been more popular than it is now!
+While boudoir photography dates back to the 1840s, it has never been more popular than it is now!
 
 ## Why do people do a boudoir shoot?
 * As a gift. Boudoir photos are a very unique and personal gift for someone special. Boudoir photos are an amazing bridal gift and they make a fantastic anniversary or Valentine's Day gift.  
+
+ Maybe you just want to give you husband a few sexy pictures, or maybe you're celebrating an anniversary like our client Shomari and you'd like to give your husband a boudoir photography album. 
+
+>"The big reveal was a HUGE success! He absolutely loved it! He said it was the best gift he's ever received. I can't thank you enough for helping me do this."  **--Shomari**
+
+Or maybe you're getting married. A bridal boudoir photography session is an incredible gift your future husband or wife will never forget. 
 
 * Just Because. Treat yourself! Every woman should have a boudoir album that reminds them how beautiful they are.  
 
