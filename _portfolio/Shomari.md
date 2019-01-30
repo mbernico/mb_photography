@@ -2,46 +2,42 @@
 title: "Shomari"
 excerpt: ""
 header:
-  image: /assets/images/portfolio/shomari/shomari-1.jpg
-  teaser: /assets/images/portfolio/shomari/shomari-small-1.jpg
+  image: /assets/logo/banner.png
+  teaser: /assets/images/portfolio/shomari/shomari-small-4.jpg
 
 gallery:
-  - url: /assets/images/portfolio/shomari/shomari-1.jpg
-    image_path: /assets/images/portfolio/shomari/shomari-small-1.jpg
-    alt: ""
+
   - url: /assets/images/portfolio/shomari/shomari-4.jpg
     image_path: /assets/images/portfolio/shomari/shomari-small-4.jpg
     alt: ""
-  - url: /assets/images/portfolio/shomari/shomari-6.jpg
-    image_path: /assets/images/portfolio/shomari/shomari-small-6.jpg
-    alt: ""
+
   - url: /assets/images/portfolio/shomari/shomari-8.jpg
     image_path: /assets/images/portfolio/shomari/shomari-small-8.jpg
     alt: ""
-  - url: /assets/images/portfolio/shomari/shomari-2.jpg
-    image_path: /assets/images/portfolio/shomari/shomari-small-2.jpg
-    alt: ""
-  - url: /assets/images/portfolio/shomari/shomari-5.jpg
-    image_path: /assets/images/portfolio/shomari/shomari-small-5.jpg
-    alt: ""
+
+
   - url: /assets/images/portfolio/shomari/shomari-7.jpg
     image_path: /assets/images/portfolio/shomari/shomari-small-7.jpg
     alt: ""
   - url: /assets/images/portfolio/shomari/shomari-3.jpg
     image_path: /assets/images/portfolio/shomari/shomari-small-3.jpg
     alt: ""
-  - url: /assets/images/portfolio/shomari/shomari-9.jpg
-    image_path: /assets/images/portfolio/shomari/shomari-small-9.jpg
-    alt: ""
+
 ---
 
 Shomari and her husband were celebrating their 10th wedding anniversary and she wanted to give him the perfect gift, an album full of pictures from her first boudoir session!
 
+<figure class="full">
+    <img src="/assets/images/portfolio/shomari/shomari-small-4.jpg">
+</figure>
+
 We met a few days before the shoot for her consultation and one of the questions I asked Shomari was "What does sexy mean to you?" Her answer really inspired me.  "Being comfortable with your own skin," she said.  "Being confident and strong." 
 
-A few days later we met for her shoot. Everyone starts off a little nervous, but by the time I talked her through the third pose she was absolutely owning every pose! Her sister and friend were there for moral support, cheering her on as well. It was really fun to we with her on her journey, and the results are amazing!
+<figure class="full">
+    <img src="/assets/images/portfolio/shomari/shomari-small-2.jpg">
+</figure>
 
-{% include gallery caption="" %}
+A few days later we met for her shoot. Everyone starts off a little nervous, but by the time I talked her through the third pose she was absolutely owning every movement! Her sister and friend joined her for moral support, cheering her on as well. It was really fun to we with her on her journey, and the results are amazing!
 
 After the shoot, and the big reveal where she gifted her album to her husband, I asked her how it went. I was so happy when I heard back from her.
 
@@ -49,7 +45,7 @@ After the shoot, and the big reveal where she gifted her album to her husband, I
 
 
 <figure class="full">
-    <img src="/assets/images/portfolio/shomari/shomari-6.jpg">
+    <img src="/assets/images/portfolio/shomari/shomari-small-8.jpg">
 </figure>
 
 Boudoir photographers are a lucky bunch, they have the privilege of making art that makes people feel amazing. There's nothing better.
